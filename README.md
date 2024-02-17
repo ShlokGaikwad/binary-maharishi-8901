@@ -42,7 +42,7 @@ Sunshine is a digital agency that helps users transform their vision into digita
 
 ## Demo
 
-here is demo link :- https://binary-maharishi-8901.netlify.app/
+Deploy link :- https://binary-maharishi-8901.netlify.app/
 
 ## Screenshots
 
